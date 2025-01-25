@@ -1,8 +1,8 @@
-# Super Store Sales Analytics
+## Superstore Sales Analytics
 
 #### The Superstore Sales Analysis project aims to explore, analyze, and derive actionable insights from a retail superstore’s sales dataset. The analysis will provide a comprehensive understanding of the sales, profit trends, customer behaviour, product performance, shipping efficiency, and regional sales distribution.
 
-## Technical Requirements
+### Technical Requirements
 #### 1.	Database Setup:
  #####  o	Database: Microsoft SQL Server (or equivalent).
  #####  o	Dataset imported into a table named SalesData.
